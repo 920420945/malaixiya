@@ -1,0 +1,2 @@
+打开cmd输入以下命令:
+git config --global credential.helper store
